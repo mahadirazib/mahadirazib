@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Mahadi Razib, a passionate software developer with a diverse skill set. Currently, I'm diving deep into PHP Laravel, but I also have experience with:<br><br>⭐ Python ⭐ Django ⭐ React.js ⭐ Bootstrap ⭐ Tailwind ⭐ MySQL ⭐ Browser Extensions<br><br>In the past, I've explored the world of 2D and 3D design, [animation](https://sites.google.com/view/odvutdesigner/2d-3d-animation), [3D modeling](https://www.freepik.com/author/rmrayhan5858), and motion graphics. Now, I'm focused on creating innovative software solutions. Let's build something amazing together! 🚀
+👋 Hi there! I'm Mahadi Razib, a passionate software developer with a diverse skill set. Currently, I'm diving deep into PHP Laravel, but I also have experience with:<br><br>⭐ Python ⭐ Django ⭐ React.js ⭐ Bootstrap ⭐ Tailwind ⭐ MySQL ⭐ Browser Extensions<br><br>In the past, I've explored the world of 2D and 3D design, [animation](https://sites.google.com/view/odvutdesigner/2d-3d-animation), [3D modeling](https://www.freepik.com/author/rmrayhan5858) and [motion graphics](https://sites.google.com/view/odvutdesigner/2d-3d-animation). Now, I'm focused on creating innovative software solutions. Let's build something amazing together! 🚀
 
 
 # 💻 Tech Stack:
