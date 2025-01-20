@@ -3,22 +3,14 @@
 
 
 # 💻 Tech Stack:
-| **Front-end Development** | **Programming Languages** |
-|---------------------------|---------------------------|
-| HTML                      | PHP                       |
-| CSS                       | Python                    |
-| JavaScript                | Java                      |
-| Bootstrap                 | C++                       |
-| Tailwind CSS              | JavaScript                |
-| React.js (basic)          |                           |
-
-| **Back-end Development**  | **Other Skills**          |
-|---------------------------|---------------------------|
-| PHP (raw)                 | Problem Solving           |
-| Laravel                   | Chrome Extension (basic)  |
-| Python - Django           | 3D Design                 |
-| MySQL                     | Animation (basic)         |
-| Node.js                   |                           |
+| **Front-end Development** | **Programming Languages** | **Back-end Development**  | **Other Skills**          |
+|---------------------------|---------------------------|---------------------------|---------------------------|
+| HTML                      | PHP                       | PHP (raw)                 | Problem Solving           |
+| CSS                       | Python                    | Laravel                   | Chrome Extension (basic)  |
+| JavaScript                | Java                      | Python - Django           | 3D Design                 |
+| Bootstrap                 | C++                       | MySQL                     | Animation (basic)         |
+| Tailwind CSS              | JavaScript                | Node.js                   |                           |
+| React.js (basic)          |                           | Node.js                   |                           |
 
 
 
