@@ -10,8 +10,10 @@ I'm a passionate software developer with a diverse skill set. Currently, I'm div
 ![python](https://mahadirazib.github.io/mahadirazib/resources/python.png)
 ![django](https://mahadirazib.github.io/mahadirazib/resources/django.png)
 ![js](https://mahadirazib.github.io/mahadirazib/resources/js.png)
+![react](https://mahadirazib.github.io/mahadirazib/resources/react.png)
 ![bootstrap](https://mahadirazib.github.io/mahadirazib/resources/bootstrap.png)
 ![tailwind](https://mahadirazib.github.io/mahadirazib/resources/tailwind.png)
+![mysql](https://mahadirazib.github.io/mahadirazib/resources/mysql.png)
 ![java](https://mahadirazib.github.io/mahadirazib/resources/java.png)
 
 
